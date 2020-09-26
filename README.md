@@ -1,2 +1,2 @@
-# C-22
-Just a ball bouncing I made for class using matter.js.
+# p5.play-boilerplate
+Boiler plate for p5.play
